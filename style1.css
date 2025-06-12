@@ -4,18 +4,18 @@ ul {
 	  padding: 0;
 	}
 	
-H1 {color:blue; font-size:80px; background-color:green;}
-h2 {color:blue; font-size:40px;ALIGN=right}
-h3 {color:blue; font-size:50px;ALIGN=right}
+h1 {color:blue; font-size:50px; background-color:white;}
+h2 {color:white; }
+h3 {color:blue; font-size:50px; text-align: right}
 
 
 body {
-  background-image: url("superstore.jpg");
+  background-image: url("shoppingmall.jpg");
   background-color: #cccccc;
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
+
 }
 		
-	
